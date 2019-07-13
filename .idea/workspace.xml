@@ -2,67 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea257c3e-b5d6-4509-ad03-bd94d1f433a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/clovist.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.production.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.staging.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listeners/GenerateSitemap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navigation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/404.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_assets/sass/_base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_assets/sass/_documentation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_assets/sass/_navigation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_assets/sass/_search.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_assets/sass/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_components/contact-form.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_components/navigation.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_layouts/documentation.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_layouts/master.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_nav/menu-item.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_nav/menu-toggle.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_nav/menu.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_nav/search-input.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/about-clovis-tree-care.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/build/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/build/css/main.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/build/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/build/js/main.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/build/mix-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/images/clovis-tree-care-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/images/jigsaw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/img/docsearch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/img/icon-stack.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/img/icon-terminal.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/img/icon-window.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/img/logo-large.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/img/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/assets/img/magnifying-glass.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/contact-us.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/docs/algolia-docsearch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/docs/custom-404-page.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/docs/customizing-your-site.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/docs/getting-started.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/docs/navigation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks/bin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/build/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/build/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/build/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/build/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/build/js/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/build/js/main.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/assets/build/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/source/assets/build/mix-manifest.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -178,6 +123,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -191,6 +141,7 @@
         <option value="$PROJECT_DIR$/source/_components/contact-form.blade.php" />
         <option value="$PROJECT_DIR$/source/index.blade.php" />
         <option value="$PROJECT_DIR$/source/contact-us.blade.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -351,15 +302,24 @@
       <workItem from="1562263458102" duration="2408000" />
       <workItem from="1562816340575" duration="33000" />
       <workItem from="1562816388490" duration="461000" />
-      <workItem from="1563055946118" duration="177000" />
+      <workItem from="1563055946118" duration="955000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit of clovis tree service">
+      <created>1563056663165</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563056663165</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21514000" />
+    <option name="totallyTimeSpent" value="22292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48795182" visible="true" weight="0.19098713" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -385,6 +345,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit of clovis tree service" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit of clovis tree service" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/package.json">
@@ -486,8 +450,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
