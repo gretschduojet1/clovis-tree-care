@@ -17,7 +17,7 @@
         <meta name="twitter:card" content="summary_large_image">
 
         @if ($page->docsearchApiKey && $page->docsearchIndexName)
-            <meta name="generator" content="tighten_jigsaw_doc">
+            <meta name="generator" content="clovis_tree_care_site">
         @endif
 
         <title>{{ $page->siteName }}{{ $page->title ? ' | ' . $page->title : '' }}</title>
