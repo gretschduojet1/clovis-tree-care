@@ -10,7 +10,7 @@
                 </div>
                 <div>
                     <i class="fa fa-phone fa-2x inline text-red mr-3"></i> <h3 class="text-grey-light inline">Contact Us Now</h3>
-                    <p class="text-grey-light">Phone: {{ $page->phone }}</p>
+                    <p class="text-grey-light">Phone: <a href="{{ $page->phoneUrl }}" class="text-red hover:text-white" target="_blank">{{ $page->phoneFormatted }}</a></p>
                 </div>
             </div>
             <div class="w-3/4 p-6">
