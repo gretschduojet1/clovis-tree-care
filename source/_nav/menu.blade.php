@@ -29,6 +29,7 @@
             @endforeach
         </div>
         <div>
+            <a href="{{ $page->phoneUrl }}" class="inline-block px-4 py-1 text-red hover:text-red-darkest lg:mt-0 border-r-2 border-red mr-4" title="Call {{ $page->siteName }} Now">{{ $page->phoneFormatted }}</a>
             <a href="#" class="bg-red inline-block px-4 py-4 leading-none border-2 rounded text-white border-red hover:text-red hover:bg-white mt-4 lg:mt-0" title="Contact {{ $page->siteName }}">Request A Free Quote</a>
         </div>
     </div>
