@@ -11,7 +11,7 @@
                         <h1 id="intro-clovis-tree-care" class="text-red lg:text-5xl">{{ $page->siteName }}</h1>
 
                         <h2 id="sub-intro-clovis-tree-care"
-                            class="font-light mt-4 text-grey-light sm:text-sm">{{ $page->siteDescription }}</h2>
+                            class="font-light mt-4 text-grey-light">{{ $page->siteDescription }}</h2>
 
                         <div class="flex my-10">
                             <a href="/contact-us" title="Contact {{ $page->siteName }}"
@@ -60,7 +60,7 @@
                     <div class="w-3/4 content-center mx-auto" style="text-align:center">
                         <i class="fab fa-pagelines fa-3x text-red content-center"></i>
                         <h3 class="text-red text-4xl">Trees are the Answer</h3>
-                        <p class="text-white text-2xl">Trees provide Food, clean the air and provide oxygen, add beauty, shade and value to your property.  Caring for them properly will help them live long healthy lives. </p>
+                        <p class="text-white">Trees provide Food, clean the air and provide oxygen, add beauty, shade and value to your property.  Caring for them properly will help them live long healthy lives. </p>
                     </div>
                 </div>
     </section>
