@@ -1,5 +1,14 @@
 @php $level = $level ?? 0 @endphp
 
+<div class="bg-grey-lighter py-2">
+    <div class="container m-auto flex items-center justify-between text-sm">
+        <p class="p-0 m-0">We offer landscaping , maintenance and design for residential, commercial and industrial clients.</p>
+        <div>
+            <a href="#" class="inline-block text-lg mr-4 text-red hover:text-red-darkest"><i class="fab fa-yelp"></i></a>
+            <a href="#" class="inline-block text-lg"><i class="fab fa-facebook-f"></i></a>
+        </div>
+    </div>
+</div>
 <nav class="flex items-center justify-between flex-wrap bg-white py-4 px-24 border-red border-b-4">
     <div class="flex items-center flex-no-shrink text-white mr-6">
         <a href="#" class="w-32"><img src="/assets/images/clovis-tree-care-logo.png" alt=""></a>

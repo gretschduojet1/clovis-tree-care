@@ -2,7 +2,6 @@
 
 @section('body')
     <section class="container mx-auto p-6 mt-6">
-        <h2><span class="text-grey-darker">About</span> <span class="text-red">{{ $page->siteName }}</span></h2>
         <div class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
             <h3 class="text-red">{{ $page->siteName }}, founded in </h3>
             <p>Hase been serving the central valley for x years.  Clovis Tree care  is a full service landscape construction and

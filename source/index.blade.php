@@ -10,7 +10,7 @@
                     <div class="mt-8">
                         <h1 id="intro-clovis-tree-care" class="text-red text-5xl">{{ $page->siteName }}</h1>
 
-                        <h2 id="intro-powered-by-jigsaw"
+                        <h2 id="intro-clovis-tree-care"
                             class="font-light mt-4 text-grey-light">{{ $page->siteDescription }}</h2>
 
                         <div class="flex my-10">
@@ -24,16 +24,10 @@
             </section>
         </div>
     </div>
-    {{--<section class="bg-grey-lighter mb-10">
-        <div class="container mx-auto p-8 flex-col">
-            <p class="text-3xl m-0 p-0 text-grey-darker">Trees provide Food, clean the air and provide oxygen, add beauty, shade and
-                value to your property. Caring for them properly will help them live long healthy lives.</p>
-        </div>
-    </section>--}}
     <section class="container mx-auto p-6 mt-6">
         <div class="md:flex -mx-2 -mx-4">
-            <div class="mb-8 mx-3 px-2 md:w-1/2 border-8 border-grey-light px-10 py-8">
-                <h3 class="border-b-2 border-dash"><span class="text-grey-darker">Exceptional</span> <br><span class="text-red">Services We Offer</span></h3>
+            <div class="mb-8 mx-3 px-2 md:w-1/2 border-8 border-red-light px-10 py-8">
+                <h3 class="border-b-2 border-dash"><span class="text-grey-darker">First-rate</span> <br><span class="text-red">Services We Offer</span></h3>
                 <p>We provide exceptional landscaping services to a wide range of commercial and residential properties for over 35 years, including large corporate environments, city parks, shopping malls and appartments. Our experienced landscapers set the standard each day in landscape design, paving, hardscaping. We will whip your yard into shape in no time.</p>
             </div>
             <div class="mb-8 mx-3 px-2 md:w-1/3">
