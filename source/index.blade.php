@@ -8,10 +8,10 @@
             <section class="container max-w-2xl mx-auto px-6 py-10 md:py-12">
                 <div class="flex flex-col-reverse mb-10 lg:flex-row lg:mb-24">
                     <div class="mt-8">
-                        <h1 id="intro-clovis-tree-care" class="text-red text-5xl">{{ $page->siteName }}</h1>
+                        <h1 id="intro-clovis-tree-care" class="text-red lg:text-5xl">{{ $page->siteName }}</h1>
 
-                        <h2 id="intro-clovis-tree-care"
-                            class="font-light mt-4 text-grey-light">{{ $page->siteDescription }}</h2>
+                        <h2 id="sub-intro-clovis-tree-care"
+                            class="font-light mt-4 text-grey-light sm:text-sm">{{ $page->siteDescription }}</h2>
 
                         <div class="flex my-10">
                             <a href="/contact-us" title="Contact {{ $page->siteName }}"
@@ -67,8 +67,8 @@
     <section>
         <div class="bg-white">
             <div class="container mx-auto p-8">
-                <div class="flex">
-                    <div class="w-1/2 pr-12">
+                <div class="md:flex">
+                    <div class="md:w-1/2 pr-12">
                         <h2><span class="text-grey-darker">About</span> <span class="text-red">Our Company</span></h2>
                         <p>
                             The Landscaper is a full-service landscaping company with a straightforward and unique design/build philosophy. We believe in having one landscape designer handle the job from its conception on paper, to the realization on your property. The reason; by doing this you are able to communicate and work with a single individual, where you can share your thoughts and idea's with to bring them, in collaboration, to life.
@@ -80,7 +80,7 @@
                             The reason; by doing this you are able to communicate and work with a single individual, where you can share your thoughts and idea's with to bring them, in collaboration...
                         </p>
                     </div>
-                    <div class="w-1/2">
+                    <div class="md:w-1/2">
                         @include('_components.contact-form')
                         </div>
 
