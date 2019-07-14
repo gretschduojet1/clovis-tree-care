@@ -16,12 +16,8 @@
                         <div class="flex my-10">
                             <a href="/docs/getting-started" title="{{ $page->siteName }} getting started"
                                class="bg-red hover:bg-white text-white hover:text-red border-2 border-red rounded mr-4 py-2 px-6">Request
-                                A Quote</a>
+                                A Free Quote</a>
 
-                            <a href="https://jigsaw.tighten.co" title="Jigsaw by Tighten"
-                               class="bg-grey-light hover:bg-grey-dark text-blue-darkest font-normal hover:text-white rounded py-2 px-6">About
-                                Clovis Tree Care</a>
-                        </div>
                     </div>
 
                 </div>
@@ -58,7 +54,7 @@
                 <img src="https://demos.qreativethemes.com/thelandscaper/wp-content/uploads/sites/2/2015/07/irrigation-360x240.jpg" alt="">
                 <h6 id="intro-laravel" class="text-red mb-0 mt-2">Irrigation &amp; Drainage</h6>
 
-                <p class="mt-2">Clovis Tree Care provides the most elite service in tree trimming in the fresno and clovis area.
+                <p class="mt-2">{{ $page->siteName }} provides the most elite service in tree trimming in the fresno and clovis area.
                     You've tried the rest, now try the best.</p>
             </div>
         </div>

@@ -1,10 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'https://my-jigsaw-docs.com',
+    'baseUrl' => 'https://clovistreecare.com',
     'production' => true,
 
-    // DocSearch credentials
-    'docsearchApiKey' => '',
-    'docsearchIndexName' => '',
 ];

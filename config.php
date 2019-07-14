@@ -4,6 +4,7 @@ return [
     'baseUrl' => '',
     'production' => false,
     'siteName' => 'Clovis Tree Care',
+    'phone' => '(559) 314-4607',
     'siteDescription' => 'The Most Reliable & Professional Company for Landscaping & Tree Service in Fresno and Clovis.',
 
     // Algolia DocSearch credentials

@@ -40,7 +40,7 @@
     </head>
 
     <body class="flex flex-col justify-between min-h-screen bg-grey-lightest text-grey-darkest leading-normal font-sans">
-        @include('_components.navigation')
+        @include('_nav.menu')
 
 
 
@@ -56,7 +56,7 @@
         <footer class="bg-white text-center text-sm mt-12 py-4 border-t-2 border-red" role="contentinfo">
             <ul class="flex flex-col md:flex-row justify-center list-reset">
                 <li class="md:mr-2">
-                    &copy; <a href="https://tighten.co" title="Tighten website">Clovis Tree Care</a> {{ date('Y') }}.
+                    &copy; <a href="https://clovistreecare.com" title="{{ $page->siteName }}">{{ $page->siteName }}</a> {{ date('Y') }}.
                 </li>
             </ul>
         </footer>
