@@ -7,6 +7,8 @@ return [
     'phone' => '(559) 314-4607',
     'siteDescription' => 'The Most Reliable & Professional Company for Landscaping & Tree Service.  Serving Fresno, Clovis, and the Central Valley for over 35 years.',
     'hours' => 'Monday-Sunday 7:00am - 7:00pm',
+    'yelpUrl' => 'https://www.yelp.com/biz/clovis-tree-care-clovis?osq=clovis+tree+care',
+    'facebookUrl' => 'https://www.facebook.com/pages/category/Tree-Cutting-Service/Clovis-Tree-Service-993488544080053/',
     // Algolia DocSearch credentials
     'docsearchApiKey' => '',
     'docsearchIndexName' => '',
