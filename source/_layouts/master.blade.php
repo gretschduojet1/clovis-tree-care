@@ -53,10 +53,10 @@
         @stack('scripts')
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 
-        <footer class="bg-white text-center text-sm mt-12 py-4 border-t-2 border-red" role="contentinfo">
+        <footer class="text-white text-center bg-red-darkest text-sm mt-12 py-4 border-t-2 border-red" role="contentinfo">
             <ul class="flex flex-col md:flex-row justify-center list-reset">
                 <li class="md:mr-2">
-                    &copy; <a href="https://clovistreecare.com" title="{{ $page->siteName }}">{{ $page->siteName }}</a> {{ date('Y') }}.
+                    &copy; <a href="https://clovistreecare.com" class="text-white" title="{{ $page->siteName }}">{{ $page->siteName }}</a> {{ date('Y') }}.
                 </li>
             </ul>
         </footer>

@@ -15,15 +15,12 @@
     </div>
     <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
         <div class="text-sm lg:flex-grow">
-            <a href="/about-clovis-tree-care/" class="block mt-4 lg:inline-block lg:mt-0 text-green hover:text-teal mr-4">
-                About {{ $page->siteName }}
-            </a>
-            <a href="/contact-us/" class="block mt-4 lg:inline-block lg:mt-0 text-green hover:text-teal">
-                Contact Us
-            </a>
+            @foreach ($page->navigation as $label => $item)
+                @include('_nav.menu-item')
+            @endforeach
         </div>
         <div>
-            <a href="#" class="bg-red inline-block px-4 py-4 leading-none border-2 rounded text-white border-red hover:text-red-darkest hover:bg-white mt-4 lg:mt-0">Request A Free Quote</a>
+            <a href="#" class="bg-red inline-block px-4 py-4 leading-none border-2 rounded text-white border-red hover:text-red hover:bg-white mt-4 lg:mt-0" title="Contact {{ $page->siteName }}">Request A Free Quote</a>
         </div>
     </div>
 </nav>

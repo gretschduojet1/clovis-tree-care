@@ -20,7 +20,7 @@
             <textarea class="shadow appearance-none border border-red-500 rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline" name="" id="" cols="30" rows="10" placeholder="Please provide some information about the services you need"></textarea>
         </div>
         <div class="flex items-center justify-between">
-            <button class="bg-blue hover:bg-blue-dark text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="button">
+            <button class="bg-red border-red border-2 text-white hover:bg-white hover:text-red font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="button">
                 Submit
             </button>
         </div>
