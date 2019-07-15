@@ -28,28 +28,27 @@
         <div class="md:flex -mx-2 -mx-4">
             <div class="mb-8 mx-3 px-2 md:w-1/2 border-8 border-red-light px-10 py-8">
                 <h3 class="border-b-2 border-dash"><span class="text-grey-darker">First-rate</span> <br><span class="text-red">Services We Offer</span></h3>
-                <p>We provide exceptional landscaping services to a wide range of commercial and residential properties for over 35 years, including large corporate environments, city parks, shopping malls and appartments. Our experienced landscapers set the standard each day in landscape design, paving, hardscaping. We will whip your yard into shape in no time.</p>
+                <p>Providing our customers with a quality and worry free tree care experience.  From big pines in shaver lake to japanese maples in the valley.  Certified arborist Jared Schutz and crew are always here to help.</p>
             </div>
             <div class="mb-8 mx-3 px-2 md:w-1/3">
                 <img src="https://demos.qreativethemes.com/thelandscaper/wp-content/uploads/sites/2/2015/07/trimming_hedge-360x240.jpg" alt="">
-                <h6 id="intro-laravel" class="text-red mb-0 mt-2">Lawn &amp; Garden</h6>
+                <h6 id="intro-laravel" class="text-red mb-0 mt-2">Tree Care</h6>
 
-                <p class="mt-2">We understand that your property is a big investment and we want our customers to know that we are there for them to help them accomplish the dreams that they may have for there property....</p>
+                <p class="mt-2">Tree care.  shaping, reduction, thinning and restoration.  Tree Removal and stump grinding.</p>
             </div>
 
             <div class="mb-8 mx-3 px-2 md:w-1/3">
-                <img src="https://demos.qreativethemes.com/thelandscaper/wp-content/uploads/sites/2/2015/07/tree_removal-360x240.jpg" alt="">
-                <h6 id="intro-laravel" class="text-red mb-0 mt-2">Planting &amp; Removal</h6>
+                <img src="https://demos.qreativethemes.com/thelandscaper/wp-content/uploads/sites/2/2015/07/tree_removal-360x240.jpg" class="border-bottom-2 border-red" alt="">
+                <h6 id="intro-laravel" class="text-red mb-0 mt-2">Tree Selection &amp; Planting</h6>
 
-                <p class="mt-2">Watering your lawn and is the key to preserving its lushness and beauty. Whether you are looking for a brand new irrigation system to maintain your lawn or the replacement of a sprinkler...</p>
+                <p class="mt-2">We can help you find the right tree that will thrive and plant it in the proper place.</p>
             </div>
 
             <div class="mb-8 mx-3 px-2 md:w-1/3">
                 <img src="https://demos.qreativethemes.com/thelandscaper/wp-content/uploads/sites/2/2015/07/irrigation-360x240.jpg" alt="">
-                <h6 id="intro-laravel" class="text-red mb-0 mt-2">Irrigation &amp; Drainage</h6>
+                <h6 id="intro-laravel" class="text-red mb-0 mt-2">Speciality Service</h6>
 
-                <p class="mt-2">{{ $page->siteName }} provides the most elite service in tree trimming in the fresno and clovis area.
-                    You've tried the rest, now try the best.</p>
+                <p class="mt-2">Root pruning, Root barrier installation, soil testing and fertilization programs and Fruit tree care.</p>
             </div>
         </div>
 

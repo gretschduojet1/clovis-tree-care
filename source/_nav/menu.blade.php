@@ -22,7 +22,7 @@
     <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
         <div class="text-sm lg:flex-grow">
             <a href="/" class="mr-4">
-                <span class="font-semibold text-xl tracking-tight text-red">{{ $page->siteName }}</span>
+                <span class="font-semibold text-xl tracking-tight text-red">{{ $page->siteName }}, Inc.</span>
             </a>
             @foreach ($page->navigation as $label => $item)
                 @include('_nav.menu-item')
