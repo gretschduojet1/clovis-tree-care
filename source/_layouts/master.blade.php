@@ -39,7 +39,7 @@
         @endif
     </head>
 
-    <body class="flex flex-col justify-between min-h-screen bg-grey-lighter text-grey-darkest leading-normal font-sans">
+    <body class="flex flex-col justify-between min-h-screen bg-grey-lightest text-grey-dark leading-normal font-sans">
 
         @include('_nav.menu')
 

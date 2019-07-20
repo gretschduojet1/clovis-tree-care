@@ -127,7 +127,7 @@ let colors = {
   'pink-light': '#fa7ea8',
   'pink-lighter': '#ffbbca',
   'pink-lightest': '#ffebef',
-}
+};
 
 module.exports = {
 
@@ -946,7 +946,7 @@ plugins: [
         '.transition': {
           transition: 'all .5s ease-out',
         },
-      }
+      };
 
       addUtilities(newUtilities)
     }
@@ -969,4 +969,4 @@ options: {
   separator: ':',
 },
 
-}
+};

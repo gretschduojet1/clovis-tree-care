@@ -3,6 +3,7 @@
 return [
     'Home' => '/',
     'About Us' => 'about-us/',
-    'Services' => 'clovis-tree-care-services',
+    'Services' => 'services/',
+    'Gallery' => 'gallery/',
     'Contact Us' => 'contact-us/',
 ];

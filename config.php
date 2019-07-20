@@ -14,6 +14,8 @@ return [
     'docsearchApiKey' => '',
     'docsearchIndexName' => '',
 
+    // gallery
+    'gallery' => require_once('gallery.php'),
     // navigation menu
     'navigation' => require_once('navigation.php'),
 
