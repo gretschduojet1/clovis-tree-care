@@ -24,5 +24,7 @@
         "vue-template-compiler": "^2.5.21",
         "yargs": "^4.6.0"
     },
-    "dependencies": {}
+    "dependencies": {
+        "vue-picture-swipe": "^1.2.0"
+    }
 }

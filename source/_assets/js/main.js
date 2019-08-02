@@ -1,17 +1,12 @@
+import VuePictureSwipe from 'vue-picture-swipe';
+import VueGallery from './components/Gallery.vue';
+
 window.docsearch = require('docsearch.js');
+window.Vue = require('vue');
 
-import hljs from 'highlight.js/lib/highlight';
+window.Vue.component('vue-picture-swipe', VuePictureSwipe);
+window.Vue.component('vue-gallery', VueGallery);
 
-hljs.registerLanguage('bash', require('highlight.js/lib/languages/bash'));
-hljs.registerLanguage('css', require('highlight.js/lib/languages/css'));
-hljs.registerLanguage('html', require('highlight.js/lib/languages/xml'));
-hljs.registerLanguage('javascript', require('highlight.js/lib/languages/javascript'));
-hljs.registerLanguage('json', require('highlight.js/lib/languages/json'));
-hljs.registerLanguage('markdown', require('highlight.js/lib/languages/markdown'));
-hljs.registerLanguage('php', require('highlight.js/lib/languages/php'));
-hljs.registerLanguage('scss', require('highlight.js/lib/languages/scss'));
-hljs.registerLanguage('yaml', require('highlight.js/lib/languages/yaml'));
-
-document.querySelectorAll('pre code').forEach((block) => {
-    hljs.highlightBlock(block);
-});
+new Vue({
+    el: '#app'
+})
