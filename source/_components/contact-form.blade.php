@@ -1,6 +1,6 @@
 <div class="w-full">
     <h2><span class="text-grey-darker">Contact Now</span> <span class="text-red">For Free Estimate</span></h2>
-    <form class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4" action="https://formspree.io/email@domain.tld" method="POST">
+    <form class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4" action="https://formspree.io/gretschduojet@gmail.com" method="POST">
         <div class="mb-4">
             <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
                 Name
