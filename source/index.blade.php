@@ -3,7 +3,7 @@
 @section('body')
 
     <div class="bg-cover"
-         style="background-image: url('https://media.istockphoto.com/photos/landscaped-back-yard-picture-id171221195'); background-repeat: no-repeat">
+         style="background-image: url('https://media.istockphoto.com/photos/hugging-a-tree-picture-id1056337060'); background-repeat: no-repeat; background-position-y: -152px;">
         <div style="background: rgba(0, 0, 0, 0.7);">
             <section class="container max-w-2xl mx-auto px-6 py-10 md:py-12">
                 <div class="flex flex-col-reverse mb-10 lg:flex-row md:mb-16">
@@ -37,16 +37,16 @@
         </div>
         <div class="flex flex-wrap">
             <div class="mb-8 mx-3 px-2 sm:w-full md:w-full lg:w-1/4 bg-white shadow-md rounded px-6 pt-6 pb-8 mb-4 md:ml-auto lg:ml-auto">
-                <img src="https://demos.qreativethemes.com/thelandscaper/wp-content/uploads/sites/2/2015/07/trimming_hedge-360x240.jpg"
+                <img src="https://media.istockphoto.com/photos/arborist-cutting-branch-picture-id181877476"
                      alt="">
-                <h6 id="intro-laravel" class="text-red mb-0 mt-2 sm:font-bold sm:text-3xl">Tree Care</h6>
+                <h6 id="intro-laravel" class="text-red mb-0 mt-2 sm:font-bold">Tree Care</h6>
 
                 <p class="mt-2">Tree care. shaping, reduction, thinning and restoration. Tree Removal and stump
                     grinding.</p>
             </div>
 
             <div class="mb-8 mx-3 px-2 sm:w-full md:w-full lg:w-1/4 bg-white shadow-md rounded px-6 pt-6 pb-8 mb-4">
-                <img src="https://demos.qreativethemes.com/thelandscaper/wp-content/uploads/sites/2/2015/07/tree_removal-360x240.jpg"
+                <img src="https://media.istockphoto.com/photos/old-peasant-hands-holding-green-young-plant-in-sunlight-rays-picture-id519519486"
                      class="border-bottom-2 border-red" alt="">
                 <h6 id="intro-laravel" class="text-red mb-0 mt-2 sm:font-bold">Tree Selection &amp; Planting</h6>
 
@@ -55,7 +55,7 @@
             </div>
 
             <div class="mb-8 mx-3 px-2 sm:w-full md:w-full lg:w-1/4 bg-white shadow-md rounded px-6 pt-6 pb-8 mb-4 md:mr-auto lg:mr-auto">
-                <img src="https://demos.qreativethemes.com/thelandscaper/wp-content/uploads/sites/2/2015/07/irrigation-360x240.jpg"
+                <img src="https://media.istockphoto.com/photos/damaged-sidewalk-picture-id1067458572"
                      alt="">
                 <h6 id="intro-laravel" class="text-red mb-0 mt-2 sm:font-bold">Speciality Service</h6>
 
@@ -85,20 +85,20 @@
                     <div class="sm:w-full md:w-1/2 lg::w-1/2 md:pr-12 lg:pr-12">
                         <h2><span class="text-grey-darker">About</span> <span class="text-red">Our Company</span></h2>
                         <p>
-                            The Landscaper is a full-service landscaping company with a straightforward and unique
-                            design/build philosophy. We believe in having one landscape designer handle the job from its
-                            conception on paper, to the realization on your property. The reason; by doing this you are
-                            able to communicate and work with a single individual, where you can share your thoughts and
-                            idea's with to bring them, in collaboration, to life.
+                            Clovis Tree Care provides the valley with a reliable professional tree care service. We work with
+                            residential customers with one tree to large commercial properties. For our residential customers
+                            we know that proper tree care is important. Trees aren't always planted in the right location and
+                            can potentially do alot of damage. Before removal is an option we can help save your tree. Structural
+                            pruning methods and root pruning are just 2 ways to make your tree safe and worry free. For our
+                            commercial customers we have the tools to keep your trees looking good and safe. Proper pruning
+                            methods are important to help maintain the appearance and viability of your investment. We can
+                            customize a plan and budget that works for you.\
                         </p>
                         <p>
-                            The Landscaper is made up of a group of highly skilled landscaping professionals who pays a
-                            lot of attention to small details. In the 30+ years of experience our staff keep your
-                            property looking and functioning beautifully. Our landscapers are fully licensed
-                        </p>
-                        <p>
-                            The reason; by doing this you are able to communicate and work with a single individual,
-                            where you can share your thoughts and idea's with to bring them, in collaboration...
+                            We are a family owned and operated business. Our family moved to the valley in the 1940's and have been here since.
+                            We love the central valley and we love trees. We are licensed by the contractors state license board, #1051356,
+                            bonded and insured with both general liability and workers comp insurance and hold an arborist license with the
+                            international society of arboricultur, #WE-12303A.
                         </p>
                     </div>
                     <div class="md:w-1/2">

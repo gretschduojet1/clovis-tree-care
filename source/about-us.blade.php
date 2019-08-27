@@ -9,7 +9,7 @@
                 with one tree to large commercial properties. For our residential customers we know that proper tree care is important.
                 Trees aren't always planted in the right location and can potentially do alot of damage. Before removal is an option we
                 can help save your tree. Structural pruning methods and root pruning are just 2 ways to make your tree safe and worry
-                free. For our commercial cusotmers we have the tools to keep your trees looking good and safe. Proper pruning methods
+                free. For our commercial customers we have the tools to keep your trees looking good and safe. Proper pruning methods
                 are important to help maintain the appearance and viability of your investment. We can customize a plan and budget that
                 works for you.
             </p>
