@@ -15,13 +15,13 @@
                 the central valley. Tree Service or tree pruning, is the most common tree maintenance
                 procedure. It takes a highly trained and skilled tree professional to understand which limbs to remove, and the
                 quantity of limbs to safely remove without putting the trees health at risk.  At {{ $page->siteName }} the health of
-                your trees is our staffs number one priority and we do all that we can eo insure that your tree stays healthy and beautiful.
+                your trees is our staffs number one priority and we do all that we can to insure that your tree stays healthy and beautiful.
             </p>
             <h3 class="text-red">Tree Removal</h3>
             <p>
                 We are tree removal professionals, {{ $page->siteName }} is qualified to handle any size of tree removal.
-                Our knowledgeable staff is here to help to make sure that your tree is removed safely and without damage to your property.
-                Not only od we have the knowledge, but we have the equipment necessary to tackle any type of tree removal.
+                Our knowledgeable staff is here to help make sure that your tree is removed safely and without damage to your property.
+                Not only do we have the knowledge, but we have the equipment necessary to tackle any type of tree removal.
             </p>
             <h3 class="text-red">Stump Removal</h3>
             <p>
