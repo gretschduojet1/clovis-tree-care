@@ -3,7 +3,7 @@
 @section('body')
 
     <div class="bg-cover"
-         style="background-image: url('https://media.istockphoto.com/photos/hugging-a-tree-picture-id1056337060'); background-repeat: no-repeat; background-position-y: -152px;">
+         style="background-image: url('/assets/images/homepage-tree-hug-sm.jpg'); background-repeat: no-repeat; background-position-y: -310px;">
         <div style="background: rgba(0, 0, 0, 0.7);">
             <section class="container max-w-2xl mx-auto px-6 py-10 md:py-12">
                 <div class="flex flex-col-reverse mb-10 lg:flex-row md:mb-16">
@@ -37,7 +37,7 @@
         </div>
         <div class="flex flex-wrap">
             <div class="mb-8 mx-3 px-2 sm:w-full md:w-full lg:w-1/4 bg-white shadow-md rounded px-6 pt-6 pb-8 mb-4 md:ml-auto lg:ml-auto">
-                <img src="https://media.istockphoto.com/photos/arborist-cutting-branch-picture-id181877476"
+                <img src="/assets/images/homepage-aborist-trimming-tree.jpg"
                      alt="">
                 <h6 id="intro-laravel" class="text-red mb-0 mt-2 sm:font-bold">Tree Care</h6>
 
@@ -46,7 +46,7 @@
             </div>
 
             <div class="mb-8 mx-3 px-2 sm:w-full md:w-full lg:w-1/4 bg-white shadow-md rounded px-6 pt-6 pb-8 mb-4">
-                <img src="https://media.istockphoto.com/photos/old-peasant-hands-holding-green-young-plant-in-sunlight-rays-picture-id519519486"
+                <img src="/assets/images/homepage-seed.jpg"
                      class="border-bottom-2 border-red" alt="">
                 <h6 id="intro-laravel" class="text-red mb-0 mt-2 sm:font-bold">Tree Selection &amp; Planting</h6>
 
@@ -72,7 +72,7 @@
                      style="text-align:center">
                     <i class="fab fa-pagelines fa-3x text-red content-center"></i>
                     <h3 class="text-red text-4xl">Trees are the Answer</h3>
-                    <p class="text-white">Trees provide Food, clean the air and provide oxygen, add beauty, shade and
+                    <p class="text-white text-2xl">Trees provide Food, clean the air and provide oxygen, add beauty, shade and
                         value to your property. Caring for them properly will help them live long healthy lives. </p>
                 </div>
             </div>

@@ -5,5 +5,6 @@ return [
     'Services' => '/services/',
     'Gallery' => '/gallery/',
     'Community' => '/community/',
+    'Wood Chips' => '/free-wood-chips/',
     'Contact Us' => '/contact-us/',
 ];
