@@ -18,6 +18,8 @@
                             <a href="/contact-us" title="Contact {{ $page->siteName }}"
                                class="bg-red hover:bg-white text-white hover:text-red border-2 border-red rounded mr-4 py-2 px-6">Request
                                 A Free Quote</a>
+                            <a href="/free-wood-chips" title="Contact {{ $page->siteName }}"
+                               class="bg-green-dark hover:bg-white text-white hover:text-green-dark border-2 border-green-darker rounded mr-4 py-2 px-6">FREE Wood Chips Learn More</a>
 
                         </div>
 
