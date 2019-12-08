@@ -9,4 +9,4 @@ window.Vue.component('vue-gallery', VueGallery);
 
 new Vue({
     el: '#app'
-})
+});

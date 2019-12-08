@@ -2,7 +2,30 @@
 
 @section('body')
 
-    <div class="bg-cover"
+    <div class="block md:hidden bg-cover bg-grey-darkest">
+            <section class="container max-w-2xl mx-auto px-6 py-2 md:py-12">
+                <div class="flex flex-col-reverse mb-10 lg:flex-row md:mb-16">
+                    <div class="mt-16">
+                        <h1 id="intro-clovis-tree-care"
+                            class="text-red sm:text-sm lg:text-5xl">{{ $page->siteName }}</h1>
+
+                        <h2 id="sub-intro-clovis-tree-care"
+                            class="font-light mt-4 text-grey-light sm:text-sm lg:text-4xl">{{ $page->siteDescription }}</h2>
+
+                        <div class="flex my-10">
+                            <a href="/contact-us" title="Contact {{ $page->siteName }}"
+                               class="w-full block bg-red hover:bg-white text-white hover:text-red border-2 border-red rounded mr-4 py-2 px-6">Request
+                                A Free Quote</a>
+                            <a href="/free-wood-chips" title="Contact {{ $page->siteName }}"
+                               class="w-full block bg-green-dark hover:bg-white text-white hover:text-green-dark border-2 border-green-darker rounded mr-4 py-2 px-6">FREE Wood Chips Learn More</a>
+
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+    </div>
+    <div class="hidden md:block bg-cover bg-grey"
          style="background-image: url('/assets/images/homepage-tree-hug-sm.jpg'); background-repeat: no-repeat; background-position-y: -310px;">
         <div style="background: rgba(0, 0, 0, 0.7);">
             <section class="container max-w-2xl mx-auto px-6 py-10 md:py-12">
@@ -24,6 +47,7 @@
                         </div>
 
                     </div>
+                </div>
             </section>
         </div>
     </div>
