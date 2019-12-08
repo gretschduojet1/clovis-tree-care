@@ -81,7 +81,7 @@
             </div>
 
             <div class="mb-8 mx-3 px-2 sm:w-full md:w-full lg:w-1/4 bg-white shadow-md rounded px-6 pt-6 pb-8 mb-4 md:mr-auto lg:mr-auto">
-                <img src="https://media.istockphoto.com/photos/damaged-sidewalk-picture-id1067458572"
+                <img src="/assets/images/homepage-cracked-sidewalk.jpg"
                      alt="">
                 <h6 id="intro-laravel" class="text-red mb-0 mt-2 sm:font-bold">Speciality Service</h6>
 
