@@ -50,15 +50,15 @@
     </head>
 
     <body class="flex flex-col justify-between min-h-screen sm:text-grey-darker md:text-grey-dark lg:text-grey-dark leading-normal font-sans" >
+        <div id="app">
+            @include('_nav.menu')
 
-        @include('_nav.menu')
 
 
-
-        <main role="main" class="w-full flex-auto" id="app">
-            @yield('body')
-        </main>
-
+            <main role="main" class="w-full flex-auto" id="app">
+                @yield('body')
+            </main>
+        </div>
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
 
         @stack('scripts')
