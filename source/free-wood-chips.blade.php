@@ -8,8 +8,8 @@
                     <h3 class="text-red">Free Wood Chips</h3>
                     <p>
                         {{ $page->siteName }} will deliver FREE wood chips to those in the Clovis area, there is a minimal charge if outside of a 10 mile radius.
-                        Please note, these are not decorative wod chips that you would find in a local nursery.  These are wood chips in the truest form, an dthey are
-                        one of the best things that you can put around your tree and shrubs for their help and to reduce weeds.
+                        Please note, these are not decorative wood chips that you would find in a local nursery.  These are wood chips in the truest form, and they are
+                        the best thing you can do for the overall health of your trees and they will reduce weeds.
                     </p>
                     <p>
                         Please fill out the form on this page and we will contact
