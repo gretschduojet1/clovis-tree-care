@@ -1,7 +1,7 @@
 <div class="w-full">
     <h2><span class="text-grey-darker">Contact Now</span> <span class="text-red"><br>For Free Wood Chips</span></h2>
     <form class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4" action="https://formspree.io/clovistreecare@gmail.com" method="POST">
-        <input type="hidden" name="_subject" value="Clovis Tree Care Contact" />
+        <input type="hidden" name="_subject" id="email-subject" value="Wood Chips Request" />
         <input type="text" name="_gotcha" style="display:none" />
         <input type="hidden" name="_next" value="https://clovistreecare.com/thank-you/"/>
         <div class="mb-4">
