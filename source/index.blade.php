@@ -12,15 +12,6 @@
                         <h2 id="sub-intro-clovis-tree-care"
                             class="font-light mt-4 text-grey-light sm:text-sm lg:text-4xl">{{ $page->siteDescription }}</h2>
 
-                        <div class="flex my-10">
-                            <a href="/contact-us" title="Contact {{ $page->siteName }}"
-                               class="w-full block bg-red hover:bg-white text-white hover:text-red border-2 border-red rounded mr-4 py-2 px-6">Request
-                                A Free Quote</a>
-                            <a href="/free-wood-chips" title="Contact {{ $page->siteName }}"
-                               class="w-full block bg-green-dark hover:bg-white text-white hover:text-green-dark border-2 border-green-darker rounded mr-4 py-2 px-6">FREE Wood Chips Learn More</a>
-
-                        </div>
-
                     </div>
                 </div>
             </section>
@@ -36,15 +27,6 @@
 
                         <h2 id="sub-intro-clovis-tree-care"
                             class="font-light mt-4 text-grey-light sm:text-sm lg:text-4xl">{{ $page->siteDescription }}</h2>
-
-                        <div class="flex my-10">
-                            <a href="/contact-us" title="Contact {{ $page->siteName }}"
-                               class="bg-red hover:bg-white text-white hover:text-red border-2 border-red rounded mr-4 py-2 px-6">Request
-                                A Free Quote</a>
-                            <a href="/free-wood-chips" title="Contact {{ $page->siteName }}"
-                               class="bg-green-dark hover:bg-white text-white hover:text-green-dark border-2 border-green-darker rounded mr-4 py-2 px-6">FREE Wood Chips Learn More</a>
-
-                        </div>
 
                     </div>
                 </div>
@@ -108,7 +90,7 @@
         <div class="bg-white">
             <div class="container mx-auto p-10">
                 <div class="md:flex">
-                    <div class="sm:w-full md:w-1/2 lg::w-1/2 md:pr-12 lg:pr-12">
+                    <div class="sm:w-full md:w-full lg::w-full md:pr-12 lg:pr-12">
                         <h2><span class="text-grey-darker">About</span> <span class="text-red">Our Company</span></h2>
                         <p>
                             Clovis Tree Care provides the valley with a reliable professional tree care service. We work with
@@ -126,9 +108,6 @@
                             bonded and insured with both general liability and workers comp insurance and hold an arborist license with the
                             International Society of Arboricultur, #WE-12303A.
                         </p>
-                    </div>
-                    <div class="md:w-1/2">
-                        @include('_components.contact-form')
                     </div>
 
                 </div>
